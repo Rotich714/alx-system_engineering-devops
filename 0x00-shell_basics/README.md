@@ -1,1 +1,2 @@
-This is 0x00-shell_basics
+#!/bin/bash
+This is 0x00-shellbasics
