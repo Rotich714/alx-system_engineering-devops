@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -1 "root" /ete/passwd
+grep -i "root" /ete/passwd
